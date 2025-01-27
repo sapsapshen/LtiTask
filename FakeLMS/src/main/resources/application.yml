@@ -1,0 +1,5 @@
+server:
+  port: 9091
+  tomcat:
+    uri-encoding: UTF-8
+  max-http-header-size: 8096
